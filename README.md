@@ -1,3 +1,9 @@
+<br clear="both">
+
+<h1 align="center">Print("Hello World!")</h1>
+
+###
+
 <div align="center">
   <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
@@ -11,10 +17,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies, develop software solutions and learn about cybersecurity.\
 🎓 &nbsp;I am currently studying software analysis and development at SENA.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+🌱 &nbsp;I am on my way to learning new programming languages, artificial intelligence and cybersecurity.\
+✍️ &nbsp;In my free time I like to program, learn English and spend time with my family.\
 
 
 
@@ -53,7 +59,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+
 
 ###
 
